@@ -2,7 +2,7 @@
   <nav>
     <div class="logo">
       <a href="/">
-        <img src="/algonquin-pet-store.png" alt="Algonquin Pet Store Logo">
+        <img src="/banner.png" alt="Oops All eadphones">
       </a>
       Admin Portal
     </div>
