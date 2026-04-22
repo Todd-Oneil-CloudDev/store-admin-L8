@@ -1,9 +1,9 @@
 <template>
-  <div class="action-button">
+  /*<div class="action-button">
     <router-link to="/product/add">
       <button class="button">Add Product</button>
     </router-link>
-  </div>
+  </div>*/
   <div class="product-list">
     <table>
       <thead>
