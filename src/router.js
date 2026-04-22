@@ -3,7 +3,7 @@ import OrderList from "./components/OrderList";
 import OrderDetail from "./components/OrderDetail";
 import ProductList from "./components/ProductList";
 import ProductDetail from "./components/ProductDetail";
-// import ProductForm from "./components/ProductForm";
+import ProductForm from "./components/ProductForm";
 
 const routes = [
   { path: "/", component: OrderList },
